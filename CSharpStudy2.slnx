@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CSharpStudy2/CSharpStudy2.csproj" />
+  <Project Path="Variables/Variables.csproj" />
 </Solution>
