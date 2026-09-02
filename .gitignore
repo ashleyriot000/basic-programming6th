@@ -1,0 +1,6 @@
+## Visual Studio 임시/설정 파일
+.vs/
+
+## 빌드 출력 폴더
+[Bb]in/
+[Oo]bj/
