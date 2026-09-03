@@ -1,5 +1,12 @@
 <Solution>
+  <Project Path="Array/Array.csproj" Id="0f3f57f3-9854-4d4e-aea7-dea73fcc7a42" />
+  <Project Path="Class/Class.csproj" Id="39495e94-1740-470b-a631-0dc0756bd759" />
   <Project Path="CSharpStudy2/CSharpStudy2.csproj" />
+  <Project Path="Ex01/Ex01.csproj" Id="a30f21b4-a335-4fa8-a237-716bbb811198" />
+  <Project Path="Ex02/Ex02.csproj" Id="84905b66-2ad0-4368-b1e8-71e0450843b4" />
+  <Project Path="Lotton/Lotto.csproj" Id="6fa51cd6-4136-437c-b475-863ee1fe6ae4" />
+  <Project Path="Operator/Operator.csproj" Id="f1e65d6e-ddca-436c-a952-6149967ede4d" />
   <Project Path="RCS/RCS.csproj" />
+  <Project Path="Structure/Structure.csproj" Id="bc193678-1897-4f6f-8cbb-403003a3421c" />
   <Project Path="Variables/Variables.csproj" />
 </Solution>
